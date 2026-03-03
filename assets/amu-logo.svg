@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="240" height="240" viewBox="0 0 240 240" role="img" aria-labelledby="title desc">
+  <title id="title">Logomarca AMU - Aplicativo de Melhorias Urbanas</title>
+  <desc id="desc">Letra A estilizada formando prédio azul e volume verde.</desc>
+  <defs>
+    <linearGradient id="blue" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#0b6cd4"/>
+      <stop offset="100%" stop-color="#0b4f99"/>
+    </linearGradient>
+    <linearGradient id="green" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#23b14d"/>
+      <stop offset="100%" stop-color="#168838"/>
+    </linearGradient>
+  </defs>
+  <rect width="240" height="240" rx="32" fill="#f6f8fb"/>
+  <path d="M82 188V58l26-20h18c22 0 38 18 38 42v108h-27V84c0-10-6-16-16-16h-9v120H82Z" fill="url(#blue)"/>
+  <path d="M97 188V74h34c18 0 32 14 32 32v82h-25V114c0-7-4-12-11-12h-7v86H97Z" fill="#f6f8fb"/>
+  <path d="M138 188 188 78l-26-8-50 118h26Z" fill="url(#green)"/>
+  <rect x="98" y="92" width="14" height="16" rx="2" fill="#f6f8fb"/>
+  <rect x="98" y="116" width="14" height="16" rx="2" fill="#f6f8fb"/>
+  <rect x="98" y="140" width="14" height="16" rx="2" fill="#f6f8fb"/>
+</svg>

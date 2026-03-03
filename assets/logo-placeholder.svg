@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="120" height="120" viewBox="0 0 120 120" role="img" aria-labelledby="title desc">
+  <title id="title">Marca temporária AMU</title>
+  <desc id="desc">Formas geométricas representando a cidade.</desc>
+  <defs>
+    <linearGradient id="g" x1="0%" x2="100%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#0f766e" stop-opacity="0.95"/>
+      <stop offset="100%" stop-color="#115e59" stop-opacity="0.98"/>
+    </linearGradient>
+  </defs>
+  <rect width="120" height="120" rx="26" fill="url(#g)"/>
+  <path d="M28 78c14-4 21-26 36-26s20 22 36 26" fill="none" stroke="#f8fafc" stroke-width="8" stroke-linecap="round"/>
+  <path d="M36 46c6-10 16-17 24-17 8 0 18 7 24 17" fill="none" stroke="#f59e0b" stroke-width="7" stroke-linecap="round"/>
+  <circle cx="36" cy="78" r="6" fill="#f8fafc"/>
+  <circle cx="60" cy="52" r="7" fill="#f8fafc"/>
+  <circle cx="84" cy="78" r="6" fill="#f8fafc"/>
+</svg>
